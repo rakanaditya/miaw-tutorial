@@ -1,0 +1,5 @@
+{
+ "token": "YOUR_TOKEN_BOT",
+ "prefix": "YOU_PREFIX_BOT"
+
+}
