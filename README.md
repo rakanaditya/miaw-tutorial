@@ -1,2 +1,3 @@
 # miaw-tutorial
-miaw tutorial you can check my yt https://www.youtube.com/channel/UC8AVTNr-8Jbzq7wBqQEBtJQ
+miaw tutorial you can check my yt https://www.youtube.com/channel/UC_6yMZw39OYEgxHWLVOMEng
+my server discord : https://discord.gg/qjnSUrv3aa
